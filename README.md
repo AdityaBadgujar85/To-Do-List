@@ -8,6 +8,14 @@ The **To-Do List Application** is a dynamic and user-friendly React-based projec
 
 ---
 
+## 🚀 Live Demo  
+You can check the deployed project here:  
+🔗 [Counter App Project - Netlify Link](https://to-do-list-react-project-sub.netlify.app/)
+
+---
+
+---
+
 ## 🚀 Features
 - **Responsive Input Form**: Seamless task entry with a text field and "Add Task" button styled for a cohesive user experience.
 - **Real-Time Updates**: Instantly updates the task list without page reloads using React's `useState`.
