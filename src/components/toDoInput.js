@@ -12,14 +12,18 @@ function ToDoInput() {
 
   const SubmitHandle = (e) => {
     e.preventDefault();
-    if (task.trim() !== '') {
+    if (task.trim() === '') {
+      alert('Please enter a task before adding!');
+    } else {
       setTaskList((prevList) => [
         ...prevList,
         { text: task, completed: false }
       ]);
+      alert('Task added successfully!');
       setTask('');
     }
   };
+
   const toggleCompleted = (index) => {
     setTaskList((prevList) =>
       prevList.map((task, i) =>

@@ -2,8 +2,8 @@
   list-style: none;
   padding: 0;
   margin: 1rem auto 2rem auto;
-  width: 80vw;          /* same 80% viewport width */
-  max-width: 900px;     /* match max width of form */
+  width: 80vw;         
+  max-width: 900px;     
   border-radius: 8px;
   background: #fff;
   box-shadow: 0 4px 16px rgba(0, 0, 0, 0.05);
