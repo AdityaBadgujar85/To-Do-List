@@ -32,5 +32,3 @@ You can check the deployed project here:
 - **Architecture**: Component-based design
 
 ---
-
-## 📂 Folder Structure
