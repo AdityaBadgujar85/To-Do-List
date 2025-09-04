@@ -10,7 +10,7 @@ The **To-Do List Application** is a dynamic and user-friendly React-based projec
 
 ## 🚀 Live Demo  
 You can check the deployed project here:  
-🔗 [To_Do_List - Netlify Link](https://to-do-list-react-project-sub.netlify.app/)
+🔗 [To Do List - Netlify Link](https://to-do-list-react-project-sub.netlify.app/)
 
 ---
 
